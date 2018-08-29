@@ -1,2 +1,2 @@
-# Math-Game.
+﻿# Math-Game
 React Native Game 🕹🎮
